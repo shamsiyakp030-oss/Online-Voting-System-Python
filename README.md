@@ -69,3 +69,5 @@ It helps manage candidates and vote counts effectively using Core Python.
 Name: Shamsiya KP
 Project: Online Voting System
 Language: Core Python.
+## project video presentation.
+https://drive.google.com/open?id=12CpK3PX9vhJsHeJiQiqQsqX17Y7dO_V5&usp=drive_copy
