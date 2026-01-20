@@ -25,7 +25,7 @@ In this project, the dictionary is used to:
 
 ### 🔹 Dictionary Implementation in the Project
 
-```python
+
 candidates = {
     1: {"name": "Alice", "votes": 0},
     2: {"name": "Bob", "votes": 0},
