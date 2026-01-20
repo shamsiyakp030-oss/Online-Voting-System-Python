@@ -1,12 +1,12 @@
-# 🗳️ Online Voting System – Python Mini Project
+# Online Voting System – Python Mini Project
 
-## 📌 Project Overview
+##  Project Overview
 This project is an **Online Voting System** developed using **Core Python**.  
 It is a menu-driven program that allows voters to log in using a voter ID, view candidates, cast a vote, and view voting results.
 
 ---
 
-## 🧠 Core Concept Used: **Dictionary in Python**
+##  Core Concept Used: **Dictionary in Python**
 
 ### 🔹 What is a Dictionary?
 A dictionary in Python is a data structure that stores data in the form of **key–value pairs**.  
@@ -59,15 +59,10 @@ Suitable for real-world applications
 Install Python (version 3.x)
 
 Run the file online_voting.py
-### 📌 Conclusion
+###  Conclusion
 
 The dictionary data structure plays a major role in this Online Voting System.
 It helps manage candidates and vote counts effectively using Core Python.
 
-👩‍💻 Author
-
-Name: Shamsiya KP
-Project: Online Voting System
-Language: Core Python.
 ## project video presentation.
 https://drive.google.com/open?id=12CpK3PX9vhJsHeJiQiqQsqX17Y7dO_V5&usp=drive_copy
