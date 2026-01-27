@@ -65,4 +65,4 @@ The dictionary data structure plays a major role in this Online Voting System.
 It helps manage candidates and vote counts effectively using Core Python.
 
 ## project video presentation.
-https://drive.google.com/open?id=12CpK3PX9vhJsHeJiQiqQsqX17Y7dO_V5&usp=drive_copy
+https://drive.google.com/file/d/12CpK3PX9vhJsHeJiQiqQsqX17Y7dO_V5/view?usp=sharing
